@@ -6,9 +6,9 @@ Built by photographer Josh Rose for his own working studio, now shared as an ope
 
 ## A look inside Galleries
 
-| Client gallery | Photographer workspace |
+| Gallery owner view | Photographer workspace |
 | --- | --- |
-| ![Client gallery with shared pins, access deadline and photographs](docs/images/client-gallery-straight.jpg) | ![Photographer dashboard with six fictional client galleries](docs/images/photographer-workspace-straight.jpg) |
+| ![Gallery owner view with photographs, favorites and delivery controls](docs/images/owner-gallery-westhaven.jpg) | ![Photographer dashboard with nine fictional client galleries](docs/images/dashboard-nine-galleries.jpg) |
 
 **Your public portfolio**
 
@@ -18,7 +18,8 @@ Built by photographer Josh Rose for his own working studio, now shared as an ope
 
 ![Portfolio editor with identity controls, gallery pages and featured photographs](docs/images/portfolio-editor.jpg)
 
-Illustrative previews with fictional studio and client details. The straight-on dashboard and client gallery are earlier article demo screens using stock photography; the portfolio previews come from the product page and use AI-generated photographs. Publishing controls shown in these demos are simulated. The included sample assignment is separate; a new installation starts empty.
+Edited demonstration screens with fictional client names. The gallery owner view and dashboard are based on Josh Rose’s screenshots and photographs, edited with AI; four added dashboard cards use generated covers. Portfolio previews use fictional content and simulated publishing controls. These are previews, not bundled client galleries. Photographs in these previews remain copyright Josh Rose and are excluded from the code’s MIT license. See [image notes](docs/images/README.md).
+
 
 ## What you can do
 
