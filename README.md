@@ -8,7 +8,7 @@ Built by photographer Josh Rose for his own working studio, now shared as an ope
 
 | Client gallery | Photographer workspace |
 | --- | --- |
-| ![Client gallery with shared pins, access deadline and photographs](docs/images/client-gallery.jpg) | ![Private photographer workspace with shoot cards and Lightroom workflow](docs/images/photographer-workspace.jpg) |
+| ![Client gallery with shared pins, access deadline and photographs](docs/images/client-gallery.jpg) | ![Photographer dashboard with six fictional client galleries](docs/images/photographer-workspace.jpg) |
 
 **Your public portfolio**
 
@@ -18,7 +18,7 @@ Built by photographer Josh Rose for his own working studio, now shared as an ope
 
 ![Portfolio editor with identity controls, gallery pages and featured photographs](docs/images/portfolio-editor.jpg)
 
-Illustrative previews captured from the Galleries product page, using fictional studio and client details and AI-generated photographs. Publishing controls shown in these demos are simulated. The included sample assignment is separate; a new installation starts empty.
+Illustrative previews with fictional studio and client details. The straight-on dashboard and client gallery are earlier article demo screens using stock photography; the portfolio previews come from the product page and use AI-generated photographs. Publishing controls shown in these demos are simulated. The included sample assignment is separate; a new installation starts empty.
 
 ## What you can do
 
