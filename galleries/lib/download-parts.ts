@@ -1,0 +1,2 @@
+import type {Photo} from './model';
+export function downloadParts(photos:Photo[],server:boolean){const maxBytes=(server?512:150)*1024*1024,maxPhotos=server?1000:50;const parts:Photo[][]=[];let current:Photo[]=[],bytes=0;for(const photo of photos){if(current.length&&(current.length>=maxPhotos||bytes+photo.bytes>maxBytes)){parts.push(current);current=[];bytes=0}current.push(photo);bytes+=photo.bytes}if(current.length)parts.push(current);return parts}

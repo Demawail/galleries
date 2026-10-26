@@ -1,0 +1,1 @@
+ALTER TABLE `usage_events` ADD `operation_id` text DEFAULT '' NOT NULL;

@@ -1,0 +1,7 @@
+{
+ "name":"gallery-zip-worker", "main":"worker.mjs", "compatibility_date":"2026-05-15",
+ "limits":{"cpu_ms":300000},
+ "r2_buckets":[{"binding":"ARCHIVES","bucket_name":"replace-with-private-download-bucket"}],
+ "queues":{"producers":[{"binding":"ZIP_QUEUE","queue":"gallery-zips"}],"consumers":[{"queue":"gallery-zips","max_batch_size":1,"max_batch_timeout":1,"max_retries":3,"max_concurrency":2}]},
+ "vars":{"GALLERY_ORIGIN":"https://galleries.example.invalid"}
+}

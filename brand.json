@@ -1,0 +1,8 @@
+{
+  "studioName": "Your Studio",
+  "photographerName": "Your Photographer",
+  "publicOrigin": "https://studio.example.invalid",
+  "galleryOrigin": "https://galleries.example.invalid",
+  "email": "owner@example.invalid",
+  "newsletterFrom": "newsletter@example.invalid"
+}

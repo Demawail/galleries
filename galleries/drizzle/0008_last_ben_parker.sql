@@ -1,0 +1,1 @@
+ALTER TABLE `portfolio_assets` ADD `removed` integer DEFAULT 0 NOT NULL;

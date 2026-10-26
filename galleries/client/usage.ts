@@ -1,0 +1,5 @@
+// Shared public browser identity. Never use gallery credentials as analytics IDs.
+let fallback=crypto.randomUUID();
+export function usageHeaders(){let id=fallback,mode='audience';try{const stored=localStorage.getItem('has-usage-browser');if(stored&&/^[a-f0-9-]{36}$/.test(stored))id=stored;else localStorage.setItem('has-usage-browser',id);mode=localStorage.getItem('has-usage-mode')||mode}catch{}return {'X-Usage-Browser':id,'X-Usage-Mode':mode==='owner'||mode==='test'?mode:'audience'}}
+export function setUsageMode(){const q=new URLSearchParams(location.search),mode=q.get('activity');if(['owner','test','audience'].includes(mode||'')){try{localStorage.setItem('has-usage-mode',mode!)}catch{}q.delete('activity');history.replaceState(null,'',location.pathname+(q.size?'?'+q:'')+location.hash)}}
+export async function sendUsage(endpoint:string,event:unknown,authorization=''){for(let i=0;i<2;i++){try{const r=await fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json',...usageHeaders(),...(authorization?{Authorization:'Bearer '+authorization}:{})},body:JSON.stringify(event),keepalive:true});if(r.ok||r.status<500)return}catch{}}}

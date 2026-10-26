@@ -1,0 +1,27 @@
+{
+  "title": "DEMO \u00b7 The Coastal Guesthouse",
+  "client": "Demo client",
+  "location": "Fictional coastal location",
+  "note": "A sample assignment. These images are AI-generated. Try pinning your favorites and leaving a note.",
+  "privateNotes": "DEMO OWNER NOTE: this text must never appear in client responses.",
+  "daysUntilClose": 30,
+  "downloadEnabled": true,
+  "clientPinAllowance": 2,
+  "photos": [
+    {
+      "file": "photos/01-coastal-guesthouse.png",
+      "section": "Exterior",
+      "photographerFavorite": true
+    },
+    {
+      "file": "photos/02-morning-coffee.png",
+      "section": "Interior",
+      "photographerFavorite": false
+    },
+    {
+      "file": "photos/03-path-to-the-cove.png",
+      "section": "Exterior",
+      "photographerFavorite": false
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+export const MAX_GALLERY_PHOTOS=1000;
