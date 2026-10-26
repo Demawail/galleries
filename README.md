@@ -4,6 +4,22 @@ A photography portfolio and client delivery system you can own, run and change w
 
 Built by photographer Josh Rose for his own working studio, now shared as an open-source preview. The repository brings together a private photographer workspace, public client delivery, a portfolio editor and a Lightroom Classic plugin. The source is free, with no Galleries subscription.
 
+## A look inside Galleries
+
+| Client gallery | Photographer workspace |
+| --- | --- |
+| ![Client gallery with shared pins, access deadline and photographs](docs/images/client-gallery.jpg) | ![Private photographer workspace with shoot cards and Lightroom workflow](docs/images/photographer-workspace.jpg) |
+
+**Your public portfolio**
+
+![Public photography portfolio homepage](docs/images/public-portfolio.jpg)
+
+**Your portfolio editor**
+
+![Portfolio editor with identity controls, gallery pages and featured photographs](docs/images/portfolio-editor.jpg)
+
+Illustrative previews captured from the Galleries product page, using fictional studio and client details and AI-generated photographs. Publishing controls shown in these demos are simulated. The included sample assignment is separate; a new installation starts empty.
+
 ## What you can do
 
 - Organize galleries, set delivery deadlines and keep private shoot notes.
