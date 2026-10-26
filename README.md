@@ -8,7 +8,7 @@ Built by photographer Josh Rose for his own working studio, now shared as an ope
 
 | Client gallery | Photographer workspace |
 | --- | --- |
-| ![Client gallery with shared pins, access deadline and photographs](docs/images/client-gallery.jpg) | ![Photographer dashboard with six fictional client galleries](docs/images/photographer-workspace.jpg) |
+| ![Client gallery with shared pins, access deadline and photographs](docs/images/client-gallery-straight.jpg) | ![Photographer dashboard with six fictional client galleries](docs/images/photographer-workspace-straight.jpg) |
 
 **Your public portfolio**
 

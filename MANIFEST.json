@@ -11,7 +11,7 @@
     "CONTRIBUTING.md": "9cfcf24b44f26b4bc277bdd0791e62515b0cb6300ef99613a6a615f1daa6374f",
     "LICENSE": "cb18931980a45d0b5050104c70780d3379bf33b37f2c80e789ddf557c10df350",
     "READ-ME-FIRST-CLAUDE.md": "108a0c2a15d7be96e31d7891e1b7cb575e46b22a25a6c9fd8d54bedd198280bd",
-    "README.md": "c2f0b2c735c5e433efe9e6acf4837d74fb63239ad82353a1bca7a0f0700fe34f",
+    "README.md": "064aa090eb318c31bf2f86fbbf369e01f1b83ee0eb826cb1afa79a8cfd5a0779",
     "SECURITY.md": "4f16cb90a238872afe54131121a845fc489991cda7a5acbf95b6f1285aa20a87",
     "START-HERE.md": "a96d8243676fe0526fae3a7f02fc9f249407d1493e6c88a7b5779bd059f0d664",
     "THIRD-PARTY-NOTICES.md": "193fc3e82d2a93b609d93ec924d945859470dd56aed59c89a6baab363d03826f",
@@ -291,10 +291,10 @@
     "website/server/portfolio.mjs": "8b0c082cf2272433d57d274a06311a760429aa0bff8c4a2b729f1b4910f9bad0",
     "website/server/share-glyphs.mjs": "f09317e9bd694f6a87d65b5694e910478530d592e96dfff6c005005851bc588d",
     "website/vendor/bitstream-vera-license.txt": "3361d054759a2fc686a2c058be82deaf9c2e6fe549be9004d7935a6c1736315d",
-    "docs/images/client-gallery.jpg": "33d42e0b501ba01cf258b72a8a1fc1cee75a8fdeb2b1ed01dec86119400aef56",
-    "docs/images/photographer-workspace.jpg": "d03fddc2d5c5d5f6d97e60754dc9ef1cc83960b16180fa966e21313fbb53e9a2",
     "docs/images/portfolio-editor.jpg": "39926ff9ea4e6b1db98c172f45b2080de102e98e7219cf3e693e62c57ff97f1e",
-    "docs/images/public-portfolio.jpg": "02066c9d8658f73f566b50f2026bdd9b63843a113c9b0c898683658644c40994"
+    "docs/images/public-portfolio.jpg": "02066c9d8658f73f566b50f2026bdd9b63843a113c9b0c898683658644c40994",
+    "docs/images/client-gallery-straight.jpg": "33d42e0b501ba01cf258b72a8a1fc1cee75a8fdeb2b1ed01dec86119400aef56",
+    "docs/images/photographer-workspace-straight.jpg": "d03fddc2d5c5d5f6d97e60754dc9ef1cc83960b16180fa966e21313fbb53e9a2"
   },
   "repository": "https://github.com/Demawail/galleries"
 }
